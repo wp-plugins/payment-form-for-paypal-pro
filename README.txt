@@ -3,7 +3,7 @@ Contributors: codepeople
 Donate link: http://wordpress.dwbooster.com/forms/paypal-payment-pro-form
 Tags: paypal,paypal pro,paypal advanced,pro,accept,credit,cards,card,payment,processing
 Requires at least: 3.0.5
-Tested up to: 4.2
+Tested up to: 4.3
 Stable tag: trunk
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -149,10 +149,12 @@ If that doesn't work please check if your hosting service requires some specific
 
 == Screenshots ==
 
+
 1. PayPal Pro Forms List
 2. PayPal Pro Form Settings
 3. Inserting a PayPal Pro form into a page
-4. Sample  
+4. Sample Payment Page
+
 
 == Changelog ==
 

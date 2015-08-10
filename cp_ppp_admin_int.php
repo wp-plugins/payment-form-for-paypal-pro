@@ -22,7 +22,7 @@ $scriptmethod = cp_ppp_get_option('script_load_method','0');
 
 ?>
 <div class="wrap">
-<h2>Payment Form for PayPal Pro</h2>
+<h1>Payment Form for PayPal Pro</h1>
 
      <script type="text/javascript">        
        $easyFormQueryPPP = jQuery.noConflict(); 

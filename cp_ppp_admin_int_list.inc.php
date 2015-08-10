@@ -123,7 +123,7 @@ if ($message) echo "<div id='setting-error-settings_updated' class='updated sett
 
 ?>
 <div class="wrap">
-<h2>Payment Form for PayPal Pro</h2>
+<h1>Payment Form for PayPal Pro</h1>
 
 <script type="text/javascript">
  function cp_addItem()

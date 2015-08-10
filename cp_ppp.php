@@ -1368,10 +1368,10 @@ function cp_ppp_get_option ($field, $default_value, $id = '')
 
 class CP_PPP_Widget extends WP_Widget
 {
-  function CP_PPP_Widget()
+  function __construct()
   {
     $widget_ops = array('classname' => 'CP_PPP_Widget', 'description' => 'Displays a form integrated with Paypal' );
-    $this->WP_Widget('CP_PPP_Widget', 'Payment Form for PayPal Pro', $widget_ops);
+    parent::__construct('CP_PPP_Widget', 'Payment Form for PayPal Pro', $widget_ops);
   }
 
   function form($instance)
