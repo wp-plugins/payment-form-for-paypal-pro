@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: CP Contact Form with PayPal\n"
 "POT-Creation-Date: 2013-09-01 17:05+0100\n"
-"PO-Revision-Date: 2014-11-24 20:02+0100\n"
+"PO-Revision-Date: 2015-09-05 17:53+0100\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
@@ -31,7 +31,7 @@ msgid "Incorrect captcha code. Please try again."
 msgstr "Onjuiste captcha code. Gelieve opnieuw te proberen."
 
 msgid "Please enter the security code"
-msgstr "Vul de beveiligingscode"
+msgstr "Vul de beveiligingscode in"
 
 # RevTran=Security code
 msgid "Security Code"
